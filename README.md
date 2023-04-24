@@ -12,9 +12,9 @@ Welcome to the **Awesome ChatGPT Prompt Contest** repository! This is a user-gen
 
 2. **Vote**: Browse the submitted prompts and upvote the ones you like by giving a vote on your favorite prompts.
 
-3. **Win & Celebrate**: At the end of each week, the prompt with the most upvotes will be declared the winner, added to the [CustomChatGPT.co](https://customchatgpt.co/awesome-chatgpt-prompts/) platform, and the creator will receive a **FREE Basic account for an entire year!**
+3. **Win & Celebrate**: At the end of each week, the prompt with the most upvotes will be declared the winner, added to the [CustomChatGPT.co](https://customchatgpt.co/) platform, and the creator will receive a **FREE Basic account for an entire year!**
 
-4. **Access**: Users can visit the [Awesome ChatGPT Prompts](https://customchatgpt.co/) page on CustomChatGPT.co to access and interact with the winning prompts.
+4. **Access**: Users can visit the [Awesome ChatGPT Prompts](https://customchatgpt.co/awesome-chatgpts-prompts) page on CustomChatGPT.co to access and interact with the winning prompts.
 
 ## License
 
